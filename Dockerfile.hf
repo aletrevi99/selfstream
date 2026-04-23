@@ -1,4 +1,4 @@
-FROM aletrevi99/selfstream:latest
+FROM qwertyuiop8899/selfstream:latest
 
 # HuggingFace: 7860 | Koyeb: 8000 | Render: 10000
 # Override PORT via platform env vars if needed
